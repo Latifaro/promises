@@ -1,0 +1,19 @@
+#background-image {
+    background-image: url('');
+    height: 50vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+#weather-data {
+    padding: 20px;
+}
+
+#time-date {
+    padding: 20px;
+}
+
+#api-data {
+    padding: 20px;
+}
